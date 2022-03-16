@@ -43,3 +43,22 @@ In the near future I plan to improve my HTML, CSS skills, and delve into TypeScr
 * Delphi(ObjectPascal)
 * WinForms
 * ASM (base)
+
+## Code sample
+
+<https://www.codewars.com/users/SPK80>
+
+```javascript
+function countOfOnBites(number) {
+  return [...number.toString(2)].filter(ch => ch === '1').length;
+}
+
+function sortByBit(arr) {
+  return arr.sort((n1, n2) => {
+    const d = countOfOnBites(n1) - countOfOnBites(n2);
+    return d === 0
+      ? n1 - n2
+      : d
+  })
+}
+```
