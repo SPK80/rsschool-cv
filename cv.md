@@ -62,3 +62,29 @@ function sortByBit(arr) {
   })
 }
 ```
+
+## Experience/projects
+
+* **rsschool-cv**
+  * Markdown
+  * Deployed: <https://SPK80.github.io/rsschool-cv/cv>
+  * GitHub: <https://github.com/SPK80/rsschool-cv>
+* **My-Records**
+  * React Axios REST
+  * Deployed: <https://spk80.github.io/my-records>
+  * GitHub: <https://github.com/SPK80/my-records>
+* **My-Records-Server**
+  * Node.js Express.js REST
+  * Deployed: <https://guarded-tundra-65297.herokuapp.com/>
+  * GitHub: <https://github.com/SPK80/my-records-server>
+* **PopupTuner**
+  * Google Chrome Extension
+  * JavaScript DOM
+  * GitHub: <https://github.com/SPK80/PopupTuner>
+* **YamGPS**
+  * Google Chrome Extension
+  * JavaScript DOM
+  * GitHub: <https://github.com/SPK80/YamGPS>
+* **Snoopy**
+  * C# WinForms Json.NET(Newtonsoft)
+  * GitHub: <https://github.com/SPK80/Snoopy>
