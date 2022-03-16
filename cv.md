@@ -93,3 +93,9 @@ function sortByBit(arr) {
 
 * Moscow Technical University of Communications and Informatics
   * Radio engineer
+
+## Languages
+
+* **Russian** - native
+
+* **English** - A2 (reading technical literature)
