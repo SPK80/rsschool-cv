@@ -27,3 +27,19 @@ To begin with, I chose Frontend as a promising and interesting direction for mys
 
 At the current stage, I am studying the React, Redux, React-Redux.
 In the near future I plan to improve my HTML, CSS skills, and delve into TypeScript.
+
+## Skills
+
+* JavaScript Node.js
+* HTML CSS (base)
+* React Redux (base)
+* Git (base)
+* Markdown
+* C#
+* OOP
+* SQL (base)
+* VSCode
+* Visual Studio
+* Delphi(ObjectPascal)
+* WinForms
+* ASM (base)
