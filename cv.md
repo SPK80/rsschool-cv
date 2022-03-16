@@ -88,3 +88,8 @@ function sortByBit(arr) {
 * **Snoopy**
   * C# WinForms Json.NET(Newtonsoft)
   * GitHub: <https://github.com/SPK80/Snoopy>
+
+## Education
+
+* Moscow Technical University of Communications and Informatics
+  * Radio engineer
