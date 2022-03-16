@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SPK80.github.io/rsschool-cv/cv
